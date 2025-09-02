@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hola, soy Jesús
+**Estudiante de Ingeniería de Sistemas** | Frontend Developer (JavaScript, HTML, CSS) | Aprendiendo Angular | AWS · Metodologías Ágiles | Inglés B1
 
-<!--
-**Alphablack1403/Alphablack1403** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+- **Frontend:** JavaScript · HTML · CSS  
+- **Frameworks:** Angular (in progress) · React (basics)  
+- **Bases de datos:** MySQL · PostgreSQL  
+- **Cloud:** AWS  
+- **Metodologías & herramientas:** Git · Scrum · Kanban · UML
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+###  Proyectos principales
+- **Blog personal** 
+- **Project-Bibliotech** 
+- **Plataforma odontologíca**
+
+---
+
+###  Sobre mí
+Apasionado por el aprendizaje continuo, empático y siempre dispuesto a colaborar. Actualmente perfecciono mi inglés (B1 → B2) y me preparo para especializarme en áreas como DevOps, móvil o Machine Learning.
+
+---
+
+###  Conecta conmigo
+¿Quieres colaborar o charlar sobre tecnología? ¡Estoy disponible en [LinkedIn](http://www.linkedin.com/in/jesusbm14) o vía correo!
+
+---
+
+###  Extras
+- 🏃‍♂️ Amante del deporte y el bienestar físico  
+- 📚 Aficionado a la lectura y escritura  
+- 🎮 Videojuegos como fuente de inspiración creativa
