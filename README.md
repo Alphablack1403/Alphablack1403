@@ -3,15 +3,6 @@
 
 ---
 
-### 🛠 Tech Stack
-- **Frontend:** JavaScript · HTML · CSS  
-- **Frameworks:** Angular (in progress) · React (basics)  
-- **Bases de datos:** MySQL · PostgreSQL  
-- **Cloud:** AWS  
-- **Metodologías & herramientas:** Git · Scrum · Kanban · UML
-
----
-
 ###  Proyectos principales
 - **Blog personal** 
 - **Project-Bibliotech** 
@@ -21,18 +12,6 @@
 
 ###  Sobre mí
 Apasionado por el aprendizaje continuo, empático y siempre dispuesto a colaborar. Actualmente perfecciono mi inglés (B1 → B2) y me preparo para especializarme en áreas como DevOps, móvil o Machine Learning.
-
----
-
-###  Conecta conmigo
-¿Quieres colaborar o charlar sobre tecnología? ¡Estoy disponible en [LinkedIn](http://www.linkedin.com/in/jesusbm14) o vía correo (jbarriosm2@unicartagena.edu.co)!
-
----
-
-###  Extras
-- 🏃‍♂️ Amante del deporte y el bienestar físico  
-- 📚 Aficionado a la lectura y escritura  
-- 🎮 Videojuegos como fuente de inspiración creativa
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/discordapp.com/users/695654145410990150) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/jesusbm14) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Alphablack1403) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jbarriosm2@unicartagena.edu.co) 
@@ -56,4 +35,3 @@ Apasionado por el aprendizaje continuo, empático y siempre dispuesto a colabora
 ---
 [![](https://visitcount.itsvg.in/api?id=Alphablack1403&icon=2&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
