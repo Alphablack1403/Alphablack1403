@@ -25,7 +25,7 @@ Apasionado por el aprendizaje continuo, empático y siempre dispuesto a colabora
 ---
 
 ###  Conecta conmigo
-¿Quieres colaborar o charlar sobre tecnología? ¡Estoy disponible en [LinkedIn](http://www.linkedin.com/in/jesusbm14) o vía correo!
+¿Quieres colaborar o charlar sobre tecnología? ¡Estoy disponible en [LinkedIn](http://www.linkedin.com/in/jesusbm14) o vía correo (jbarriosm2@unicartagena.edu.co)!
 
 ---
 
