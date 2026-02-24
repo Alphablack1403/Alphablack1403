@@ -1,5 +1,5 @@
 # 👋 Hola, soy Jesús
-**Estudiante de Ingeniería de Sistemas** | Frontend Developer (JavaScript, HTML, CSS) | Aprendiendo Angular | AWS · Metodologías Ágiles | Inglés B1
+**Estudiante de Ingeniería de Sistemas** | Frontend Developer (JavaScript, HTML, CSS) | React - Aprendiendo Angular | AWS · Metodologías Ágiles | Inglés B1
 
 ---
 
