@@ -53,7 +53,7 @@ React • React Flow • Node.js • Express • SQLite • JWT • Docker
 * Exportación del árbol como imagen
 * Arquitectura cliente-servidor con API REST
 
-🔗 Repositorio: *(agregar enlace)*
+🔗 Repositorio: *(https://github.com/Alphablack1403/genealogy-graph-web-app)*
 
 ---
 
@@ -78,7 +78,7 @@ Python • Django • SQLite • Docker
 
 Arquitectura basada en **patrón MVT (Model-View-Template)**.
 
-🔗 Repositorio: *(agregar enlace)*
+🔗 Repositorio: *(https://github.com/Alphablack1403/TICKET_SYSTEM)*
 
 ---
 
