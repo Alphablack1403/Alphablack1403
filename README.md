@@ -7,9 +7,20 @@
 Actualmente construyo proyectos personales para fortalecer habilidades en **arquitectura web, manejo de bases de datos y desarrollo backend**.
 
 ---
+## 👨‍💻 About Me
 
+- 🎓 Systems Engineering student (final semester)
+- 💻 Interested in Web Development and Software Engineering
+- 🌱 Currently learning **Angular** and improving **TypeScript**
+- 🌎 Improving my English (B1 → B2)
+
+### Outside Tech
+- 📚 Science fiction and technology books
+- 🧠 Learning about the universe and astronomy
+- 🏊 Swimming and sports
 # 🚀 Tech Stack
 
+---
 ### Frontend
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
@@ -99,8 +110,10 @@ Arquitectura basada en **patrón MVT (Model-View-Template)**.
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Alphablack1403\&theme=dark\&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=Alphablack1403&show_icons=true&theme=tokyonight)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Alphablack1403\&layout=compact\&theme=dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Alphablack1403&layout=compact&theme=tokyonight)
+
+![](https://streak-stats.demolab.com/?user=Alphablack1403&theme=tokyonight)
