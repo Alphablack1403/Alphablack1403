@@ -35,7 +35,7 @@ Actualmente construyo proyectos personales para fortalecer habilidades en **arqu
 
 # 📂 Proyectos Destacados
 
-## 🌳 Árbol Genealógico Profesional
+## 🌳 Genealogy Graph Web App
 
 Aplicación web interactiva para **gestionar y visualizar genealogías familiares mediante grafos dinámicos**.
 
