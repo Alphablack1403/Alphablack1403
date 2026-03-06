@@ -112,8 +112,8 @@ Arquitectura basada en **patrón MVT (Model-View-Template)**.
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Alphablack1403&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alphablack1403&show_icons=true&theme=tokyonight)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Alphablack1403&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alphablack1403&layout=compact&theme=tokyonight)
 
-![](https://streak-stats.demolab.com/?user=Alphablack1403&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Alphablack1403&theme=tokyonight)
