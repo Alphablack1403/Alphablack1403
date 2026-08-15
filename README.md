@@ -1,116 +1,100 @@
-# 👋 Hola, soy Jesús Barrios
+# Jesús David Barrios Martínez
 
-🎓 Estudiante de **Ingeniería de Sistemas – Universidad de Cartagena**
-💻 Interesado en **Desarrollo Web Full Stack**
-⚡ Experiencia desarrollando **aplicaciones web con React, Node.js y Django**
+**Desarrollador de Software | Ingeniero de Sistemas**
 
-Actualmente construyo proyectos personales para fortalecer habilidades en **arquitectura web, manejo de bases de datos y desarrollo backend**.
+Estudiante de último semestre de Ingeniería de Sistemas en la Universidad de Cartagena. Especializado en el Desarrollo Web Full Stack, con experiencia demostrable en la construcción, arquitectura y despliegue de aplicaciones web de grado empresarial. 
 
-# 🚀 Tech Stack
+Me destaco por mi adaptabilidad, aplicación de metodologías ágiles (Scrum) y capacidad para resolver problemas complejos a través de soluciones tecnológicas eficientes y seguras.
+
+---
+
+## 🚀 Stack Tecnológico
 
 ### Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge\&logo=express\&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Bases de Datos
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white)
-
-### Dev Tools
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-
----
-
-# 📂 Proyectos Destacados
-
-## 🌳 Genealogy Graph Web App
-
-Aplicación web interactiva para **gestionar y visualizar genealogías familiares mediante grafos dinámicos**.
-
-### Tecnologías
-
-React • React Flow • Node.js • Express • SQLite • JWT • Docker
-
-### Características
-
-* Visualización interactiva de relaciones familiares
-* Layout automático de grafos
-* Autenticación de usuarios con JWT
-* Exportación del árbol como imagen
-* Arquitectura cliente-servidor con API REST
-
-🔗 Repositorio: *(https://github.com/Alphablack1403/genealogy-graph-web-app)*
+### Herramientas y Metodologías
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
-## 🎫 Ticket System
+## 📂 Proyectos Destacados
 
-Sistema de **gestión de tickets e incidencias** desarrollado como prueba técnica.
+### Sistema de Gestión de Tutores Pares (SGTP)
+Aplicación web Full-Stack desarrollada para la Vicerrectoría de Bienestar Universitario de la Universidad de Cartagena. Plataforma tecnológica centralizada para automatizar el ciclo de vida completo de las tutorías académicas institucionales.
 
-Permite registrar, actualizar y dar seguimiento a solicitudes mediante comentarios asociados.
-
-### Tecnologías
-
-Python • Django • SQLite • Docker
-
-### Características
-
-* Creación y gestión de tickets
-* Filtros por estado y prioridad
-* Sistema de comentarios por ticket
-* Autenticación integrada de Django
-* Control de acceso a vistas
-* Protección CSRF
-
-Arquitectura basada en **patrón MVT (Model-View-Template)**.
-
-🔗 Repositorio: *(https://github.com/Alphablack1403/TICKET_SYSTEM)*
+* **Tecnologías:** React.js (Vite), Tailwind CSS, Java (Spring Boot), PostgreSQL, Docker.
+* **Características Técnicas:**
+  * Arquitectura de Aplicación de Página Única (SPA) completamente desacoplada mediante consumo asíncrono de API RESTful.
+  * Seguridad implementada bajo el modelo de Control de Acceso Basado en Roles (RBAC) con autenticación stateless (JWT) y criptografía BCrypt.
+  * Módulo de procesamiento masivo de datos (ETL) diseñado para la migración de 12 años de registros históricos con validación de integridad referencial.
+  * Maquetación interactiva (UI/UX) estandarizada y despliegue orquestado mediante contenedores Docker.
 
 ---
 
-# 📚 Actualmente aprendiendo
+### 🌳 Genealogy Graph Web App
+Aplicación web interactiva para gestionar y visualizar genealogías familiares mediante grafos dinámicos.
 
-* Arquitectura de aplicaciones web
-* Buenas prácticas en backend
-* Docker para despliegue de aplicaciones
-* Metodologías ágiles (Scrum / Kanban)
+* **Tecnologías:** React, React Flow, Node.js, Express, SQLite, JWT, Docker.
+* **Características Técnicas:**
+  * Visualización interactiva de relaciones familiares con layout automático de grafos.
+  * Arquitectura cliente-servidor con API REST y autenticación de usuarios mediante JWT.
+  * Exportación de estructuras arbóreas y renderizado optimizado del DOM.
 
----
-## 👨‍💻 About Me
-
-- 🎓 Systems Engineering student (final semester)
-- 💻 Interested in Web Development and Software Engineering
-- 🌱 Currently learning **Angular** and improving **TypeScript**
-- 🌎 Improving my English (B1 → B2)
-
-### Outside Tech
-- 📚 Science fiction and technology books
-- 🧠 Learning about the universe and astronomy
-- 🏊 Swimming and sports
+🔗 **Repositorio:** *(https://github.com/Alphablack1403/genealogy-graph-web-app)*
 
 ---
 
-# 🌐 Conecta conmigo
+### 🎫 Ticket System
+Sistema de gestión de incidencias desarrollado bajo el modelo arquitectónico MVT (Model-View-Template).
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/in/jesusbm14)
+* **Tecnologías:** Python, Django, SQLite, Docker.
+* **Características Técnicas:**
+  * Creación, actualización y seguimiento de tickets con sistema de comentarios asociado.
+  * Autenticación integrada, control de acceso a vistas y protección contra vulnerabilidades CSRF.
+  * Filtrado dinámico por estado y prioridad operativa.
 
-📧 **Correo:** [jbarriosm2@unicartagena.edu.co](mailto:jbarriosm2@unicartagena.edu.co)
+🔗 **Repositorio:** *(https://github.com/Alphablack1403/TICKET_SYSTEM)*
 
 ---
 
-## 📊 GitHub Stats
+## 👨‍💻 Perfil Profesional y Competencias
+
+* **Formación:** Ingeniería de Sistemas (Último semestre en curso).
+* **Idiomas:** Español (Nativo), Inglés (Nivel B1, en preparación para B2).
+* **Intereses de Especialización:** Arquitectura de aplicaciones web, seguridad informática, despliegue en infraestructuras cloud y adopción de tecnologías limpias (Clean Code).
+
+---
+
+## 🌐 Conecta conmigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jesusbm14)
+
+📧 **Correo Institucional:** [jbarriosm2@unicartagena.edu.co](mailto:jbarriosm2@unicartagena.edu.co)  
+📧 **Correo Personal:** [jbarriosm14@gmail.com](mailto:jbarriosm14@gmail.com)
+
+---
+
+## 📊 Métricas de Repositorio
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Alphablack1403&show_icons=true&theme=tokyonight)
 
